@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @privateislandkate
-- 👀 I’m interested in finding a PHP dev fluent in sympfony 4 to help out with building the next best app to hit event tech (Private Island) 
+- 👀 I’m interested in finding a PHP dev fluent in symfony 4 to help out with building the next best app to hit event tech (Private Island) 
 - 📫 How to reach me ... message me on Telegram at +447961697533. 
 
 <!---
